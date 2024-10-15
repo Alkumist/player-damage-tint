@@ -1,0 +1,9 @@
+{
+  "name": "player-damage-tint",
+  "version": "1.0.0",
+  "title": "Player damage tint",
+  "author": "Alkumist",
+  "dependencies": ["base >= 1.1"],
+  "factorio_version" : "1.1",
+  "description": "Adds a color setting to allow damage tint customization"
+}

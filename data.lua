@@ -1,0 +1,1 @@
+data.raw.character.character.damage_hit_tint = settings.startup["damage-tint"].value
